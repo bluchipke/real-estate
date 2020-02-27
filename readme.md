@@ -9,3 +9,5 @@ PROPERTY MANAGEMENT SYSTEM
 4 Maintenance & Work Orders
 5 Accounting - Invoicing, billing, receipting
 6 Reports
+
+The application is built using Laravel 5.8 and Vue JS 2.0
