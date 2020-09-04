@@ -34,7 +34,7 @@
         "vue-ctk-date-time-picker": "^2.4.0",
         "vue-filter-number-format": "^1.0.3",
         "vue-materialize-datatable": "^1.0.2",
-        "vue-moment": "^4.0.0",
+        "vue-moment": "^4.1.0",
         "vue-progressbar": "^0.7.5",
         "vue-router": "^3.0.6",
         "vue-select": "^3.1.0",
